@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianeTess
 - 👀 I’m interested in mixed-media art and reading
-- 🌱 I’m completing my data science certificate with ENTITY Academy online in August 2022
+- 🌱 I completed my data science certificate with ENTITY Academy online in August 2022
 - 📫 How to reach me: julianetess@outlook.com
 
 <!---
